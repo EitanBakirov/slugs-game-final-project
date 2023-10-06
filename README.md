@@ -44,21 +44,21 @@ After choosing the number of teams and players in each team the game will begin:
 Each player gets 1:30 minutes to play his turn in which he can only shoot once.
 
 Weapons:<br>
-Bazooka - press '1'<br>
-Uzi - press '2'<br>
-Shotgun - press '3'<br>
+Bazooka - Press '1'<br>
+Uzi - Press '2'<br>
+Shotgun - Press '3'<br>
 
 Movement:<br>
-Left - press 'A'<br>
-Right - press 'D'<br>
-Jump - press 'Spacebar'<br>
+Left - Press 'A'<br>
+Right - Press 'D'<br>
+Jump - Press 'Spacebar'<br>
 
 Shoot:<br>
-Shoot - press 'Enter'<br>
-Adjust the shooting power of the Bazooka - press 'W' to increase, and 'S' to decrease. (The power ranges between 0 to 1000)
+Shoot - Press 'Enter'<br>
+Adjust the shooting power of the Bazooka - Press 'W' to increase, and 'S' to decrease. (The power ranges between 0 to 1000)
 
 ## Contact
 
-For more information contact Eitan Bakirov at:
-Email - eitanbakirov@gmail.com
+For more information contact Eitan Bakirov at:<br>
+Email - eitanbakirov@gmail.com<br>
 Github - https://github.com/EitanBakirov
