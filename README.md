@@ -43,17 +43,17 @@ List the key features of your game.
 After choosing the number of teams and players in each team the game will begin:
 Each player gets 1:30 minutes to play his turn in which he can only shoot once.
 
-Weapons:
+Weapons:<br>
 Bazooka - press '1'<br>
 Uzi - press '2'<br>
 Shotgun - press '3'<br>
 
-Movement:
+Movement:<br>
 Left - press 'A'<br>
 Right - press 'D'<br>
 Jump - press 'Spacebar'<br>
 
-Shoot:
+Shoot:<br>
 Shoot - press 'Enter'<br>
 Adjust the shooting power of the Bazooka - press 'W' to increase, and 'S' to decrease. (The power ranges between 0 to 1000)
 
