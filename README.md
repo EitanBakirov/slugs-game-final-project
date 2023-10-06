@@ -8,7 +8,7 @@ This is a 2D game ran using Monogame (open-source and cross-platform game develo
 "Slugs" is a turn-based artillery strategy game where players control teams of comical, heavily armed worms. 
 In a destructible 2D environment, the objective is to eliminate opponents using an array of bizarre weapons and tactics, making it a humorous and engaging multiplayer experience.
 
-For a more in depth overview of all the components and features implemented in the project visit - "Slugs-FinalProject-Overview"
+For a more in depth overview of all the components and features implemented in the project visit - "Slugs-FinalProject-Overview"<br>
 ![Overview](/Slugs-FinalProject-Overview.pdf)
 
 ## Screenshots
@@ -44,17 +44,17 @@ After choosing the number of teams and players in each team the game will begin:
 Each player gets 1:30 minutes to play his turn in which he can only shoot once.
 
 Weapons:
-Bazooka - press '1'
-Uzi - press '2'
-Shotgun - press '3'
+Bazooka - press '1'<br>
+Uzi - press '2'<br>
+Shotgun - press '3'<br>
 
 Movement:
-Left - press 'A'
-Right - press 'D'
-Jump - press 'Spacebar'
+Left - press 'A'<br>
+Right - press 'D'<br>
+Jump - press 'Spacebar'<br>
 
 Shoot:
-Shoot - press 'Enter'
+Shoot - press 'Enter'<br>
 Adjust the shooting power of the Bazooka - press 'W' to increase, and 'S' to decrease. (The power ranges between 0 to 1000)
 
 ## Contact
