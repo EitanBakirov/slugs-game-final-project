@@ -10,7 +10,6 @@ In a destructible 2D environment, the objective is to eliminate opponents using 
 
 For a more in depth overview of all the components and features implemented in the project visit - "Slugs-FinalProject-Overview"<br>
 [Overview](Slugs-FinalProject-Overview.pdf)
-[Monogame](Slugs-FinalProject-Overview.pdf)
 
 ## Screenshots
 
