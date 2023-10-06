@@ -3,11 +3,11 @@ Game development final project in Software Engineering College
 
 ## Description
 
-In this project I implemented my OOP, C# and game development knowledge that I got to learn during the thirteenth grade of Software Engineering at Hakfar Hayarok College.
-This is a 2D game ran using Monogame (open-source and cross-platform game development framework) and XNA framework integrated within it. 
-"Slugs" is a turn-based artillery strategy game where players control teams of comical, heavily armed worms. 
-In a destructible 2D environment, the objective is to eliminate opponents using an array of bizarre weapons and tactics, making it a humorous and engaging multiplayer experience.
-
+In this project I implemented my OOP, C# and game development knowledge that I got to learn during the thirteenth grade of Software Engineering at Hakfar Hayarok College.<br>
+This is a 2D game ran using Monogame (open-source and cross-platform game development framework) and XNA framework integrated within it. <br>
+"Slugs" is a turn-based artillery strategy game where players control teams of comical, heavily armed worms. <br>
+In a destructible 2D environment, the objective is to eliminate opponents using an array of bizarre weapons and tactics, making it a humorous and engaging multiplayer experience.<br>
+<br>
 For a more in depth overview of all the components and features implemented in the project visit - 
 [Overview](Slugs-FinalProject-Overview.pdf)
 
