@@ -8,7 +8,7 @@ This is a 2D game ran using Monogame (open-source and cross-platform game develo
 "Slugs" is a turn-based artillery strategy game where players control teams of comical, heavily armed worms. 
 In a destructible 2D environment, the objective is to eliminate opponents using an array of bizarre weapons and tactics, making it a humorous and engaging multiplayer experience.
 
-For a more in depth overview of all the components and features implemented in the project visit - "Slugs-FinalProject-Overview"<br>
+For a more in depth overview of all the components and features implemented in the project visit - 
 [Overview](Slugs-FinalProject-Overview.pdf)
 
 ## Screenshots
