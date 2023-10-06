@@ -1,0 +1,282 @@
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Slugs.exe
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Slugs.deps.json
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Slugs.runtimeconfig.json
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Slugs.pdb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\Slugs.csproj.AssemblyReference.cache
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\Slugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\Slugs.AssemblyInfoInputs.cache
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\Slugs.AssemblyInfo.cs
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\Slugs.csproj.CoreCompileInputs.cache
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\Slugs.csproj.CopyComplete
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\refint\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\Slugs.pdb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\Slugs.genruntimeconfig.cache
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\obj\Debug\net6.0\ref\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ball.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\background.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Button.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\buttonClick.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\clickButton.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\explosion.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\FFont.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ground.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\groundSlug.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\myFont.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\QuitGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\RedArrow.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\rocket.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\smoke.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\StartGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\terrain3.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\Button.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\buttonClick.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\clickButton.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\EndQuitGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\NewGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\NumOfPlayers.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\NumOfTeams.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\QuitGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\StartGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Fonts\FFont.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Fonts\myFont.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\background.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Bazooka.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Blue.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\BlueWon.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\DarkScreen.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Desert.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\explosion.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Green.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\GreenWon.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\groundSlug.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\HealthLane.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Red.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\RedArrow.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\RedWon.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\rocket.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Shotgun.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\ShotgunBullet.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsBackground.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsBackgroundSmall.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsLogo.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsWallpaper.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\smoke.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\terrain3.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Tie.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Uzi.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\UziBullet.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\X.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Yellow.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\YellowWon.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Bazooka.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Jump.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\NumOfPlayers.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\NumOfTeams.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Run.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsBackground.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsBackgroundSmall.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsLogo.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsWallpaper.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Stance.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\StanceMask.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Walk.xnb
+C:\Users\eitan\OneDrive\Desktop\FinalProject\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\WalkMask.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\background.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ball.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Button.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\buttonClick.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\clickButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\explosion.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\FFont.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ground.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\groundSlug.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\myFont.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\QuitGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\RedArrow.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\rocket.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\Button.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\buttonClick.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\clickButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\EndQuitGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\NewGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\NumOfPlayers.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\NumOfTeams.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\QuitGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\StartGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Fonts\FFont.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Fonts\myFont.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\background.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Bazooka.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Blue.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\BlueWon.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\DarkScreen.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Desert.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\explosion.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Green.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\GreenWon.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\groundSlug.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\HealthLane.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Red.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\RedArrow.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\RedWon.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\rocket.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Shotgun.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\ShotgunBullet.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsBackground.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsBackgroundSmall.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsLogo.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsWallpaper.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\smoke.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\terrain3.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Tie.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Uzi.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\UziBullet.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\X.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Yellow.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\YellowWon.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Bazooka.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Jump.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\NumOfPlayers.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\NumOfTeams.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Run.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsBackground.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsBackgroundSmall.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsLogo.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsWallpaper.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Stance.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\StanceMask.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Walk.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\WalkMask.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\smoke.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\StartGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Content\terrain3.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Slugs.exe
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Slugs.deps.json
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Slugs.runtimeconfig.json
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\Slugs.pdb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\Slugs.csproj.AssemblyReference.cache
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\Slugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\Slugs.AssemblyInfoInputs.cache
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\Slugs.AssemblyInfo.cs
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\Slugs.csproj.CoreCompileInputs.cache
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\Slugs.csproj.CopyComplete
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\refint\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\Slugs.pdb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\Slugs.genruntimeconfig.cache
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Check\Slugs\Slugs\obj\Debug\net6.0\ref\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\background.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ball.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Button.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\buttonClick.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\clickButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\explosion.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\FFont.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ground.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\groundSlug.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\myFont.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\QuitGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\RedArrow.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\rocket.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\Button.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\buttonClick.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\clickButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\EndQuitGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\NewGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\NumOfPlayers.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\NumOfTeams.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\QuitGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Controls\StartGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Fonts\FFont.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Fonts\myFont.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\background.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Bazooka.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Blue.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\BlueWon.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\DarkScreen.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Desert.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\explosion.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Green.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\GreenWon.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\groundSlug.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\HealthLane.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Red.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\RedArrow.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\RedWon.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\rocket.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Shotgun.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\ShotgunBullet.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsBackground.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsBackgroundSmall.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsLogo.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\SlugsWallpaper.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\smoke.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\terrain3.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Tie.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Uzi.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\UziBullet.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\X.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\Yellow.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\ScreenAddons\Graphics\YellowWon.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Bazooka.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Jump.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\NumOfPlayers.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\NumOfTeams.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Run.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsBackground.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsBackgroundSmall.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsLogo.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\SlugsWallpaper.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Stance.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\StanceMask.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\Walk.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\Slug\WalkMask.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\smoke.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\StartGameButton.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Content\terrain3.xnb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Slugs.exe
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Slugs.deps.json
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Slugs.runtimeconfig.json
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\Slugs.pdb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\Slugs.csproj.AssemblyReference.cache
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\Slugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\Slugs.AssemblyInfoInputs.cache
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\Slugs.AssemblyInfo.cs
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\Slugs.csproj.CoreCompileInputs.cache
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\Slugs.csproj.CopyComplete
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\refint\Slugs.dll
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\Slugs.pdb
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\Slugs.genruntimeconfig.cache
+C:\Users\eitan\OneDrive\Desktop\איתן\Hakfar Hayarok\Final Project\Slugs-Reconstructed\Slugs\Slugs\obj\Debug\net6.0\ref\Slugs.dll
