@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/eitan/OneDrive/Desktop/איתן/Hakfar Hayarok/Final Project/Slugs-Reconstructed/Slugs/Slugs/Content/ScreenAddons/Graphics/Uzi.png</SourceFile>
+  <SourceFile>C:/Users/eitan/OneDrive/Desktop/איתן/Hakfar Hayarok/Final Project/slugs-game-final-project/Slugs/Content/ScreenAddons/Graphics/Uzi.png</SourceFile>
   <SourceTime>2018-05-23T02:57:36+03:00</SourceTime>
-  <DestFile>C:/Users/eitan/OneDrive/Desktop/איתן/Hakfar Hayarok/Final Project/Slugs-Reconstructed/Slugs/Slugs/Content/bin/DesktopGL/Content/ScreenAddons/Graphics/Uzi.xnb</DestFile>
-  <DestTime>2023-10-06T22:17:38.5170266+03:00</DestTime>
+  <DestFile>C:/Users/eitan/OneDrive/Desktop/איתן/Hakfar Hayarok/Final Project/slugs-game-final-project/Slugs/Content/bin/DesktopGL/Content/ScreenAddons/Graphics/Uzi.xnb</DestFile>
+  <DestTime>2023-10-06T22:59:15.7557386+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T14:44:56+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
