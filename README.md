@@ -20,12 +20,6 @@ For a more in depth overview of all the components and features implemented in t
 ![Scene4](/GameScreenshots/Scene4.png)
 ![End Game](/GameScreenshots/EndGame.png)
 
-## Features
-
-- Feature 1: Briefly describe a significant feature.
-- Feature 2: Describe another important feature.
-
-List the key features of your game.
 
 ## Getting Started
 
