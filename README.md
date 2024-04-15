@@ -20,10 +20,6 @@ For a more in depth overview of all the components and features implemented in t
 ![Scene4](/GameScreenshots/Scene4.png)
 ![End Game](/GameScreenshots/EndGame.png)
 
-## Demo
-
-If possible, provide a link to a live demo of your game. This could be a playable version hosted on a website or a video showcasing the gameplay.
-
 ## Features
 
 - Feature 1: Briefly describe a significant feature.
