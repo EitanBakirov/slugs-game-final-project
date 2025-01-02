@@ -1,4 +1,4 @@
-# slugs-game-final-project
+# Slug Wars
 Game development final project in Software Engineering College
 
 ## Description
